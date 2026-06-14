@@ -161,6 +161,9 @@ The Tkinter window (`HistogramApp`) displays:
 - **X-axis label:** `Hours 00:00 to 24:00`
 - Canvas: 1000×600px, lavender background
 
+  <img width="1245" height="782" alt="image" src="https://github.com/user-attachments/assets/549fef38-3284-45dd-b2b9-4bda8c7153e0" />
+
+
 ---
 
 ## Module Breakdown
